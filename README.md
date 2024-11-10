@@ -11,11 +11,11 @@ A responsive website frontend for Apple's iPhone 15 Pro, developed with React.js
 - [Usage](#usage)
 - [Join Our Community](#join-our-community)
 
-## Project Overview
+##🌄 Project Overview
 
 The iPhone 15 Pro website frontend was created to showcase Apple's latest advancements in a visually captivating and user-friendly format. With a focus on dynamic interactivity and a seamless experience, this website allows users to explore the iPhone 15 Pro's specifications, colors, and design in an engaging way.
 
-## Features
+##🚀 Features
 
 - **Responsive Design:** Optimized for a wide range of devices, from desktops to tablets and mobile phones.
 - **Dynamic 3D Model Rendering:** Explore the iPhone 15 Pro in 3D using Three.js for a realistic, hands-on experience.
@@ -23,7 +23,7 @@ The iPhone 15 Pro website frontend was created to showcase Apple's latest advanc
 - **Interactive Custom Video Carousel:** View different angles, features, and use cases of the iPhone 15 Pro in an intuitive carousel format.
 - **Showcase of Colors and Sizes:** Explore various color options and sizes of the iPhone 15 Pro with ease.
 
-## Technologies Used
+##🛠 Technologies Used
 
 - **React.js** - For building a dynamic, component-based user interface.
 - **TailwindCSS** - For responsive and utility-first styling.
