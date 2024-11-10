@@ -2,7 +2,7 @@
 
 A responsive website frontend for Apple's iPhone 15 Pro, developed with React.js and TailwindCSS. This project offers an immersive experience with smooth animations, interactive elements, and a modern design, delivering an engaging exploration of the iPhone 15 Pro's features, colors, and sizes.
 
-## Table of Contents
+##  📑Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
